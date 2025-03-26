@@ -1,0 +1,6 @@
+# Ignore the Firebase service account key file
+connectrix-c0b19-firebase-adminsdk-fbsvc-b4c0c305d1.json
+
+# Optionally ignore environment files if used for secrets
+.env
+test.py
